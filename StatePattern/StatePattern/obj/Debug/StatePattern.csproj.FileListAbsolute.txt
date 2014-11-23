@@ -1,0 +1,8 @@
+c:\users\андрій\documents\visual studio 2013\Projects\StatePattern\StatePattern\bin\Debug\StatePattern.exe.config
+c:\users\андрій\documents\visual studio 2013\Projects\StatePattern\StatePattern\bin\Debug\StatePattern.exe
+c:\users\андрій\documents\visual studio 2013\Projects\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
+c:\users\андрій\documents\visual studio 2013\Projects\StatePattern\StatePattern\obj\Debug\StatePattern.Form1.resources
+c:\users\андрій\documents\visual studio 2013\Projects\StatePattern\StatePattern\obj\Debug\StatePattern.Properties.Resources.resources
+c:\users\андрій\documents\visual studio 2013\Projects\StatePattern\StatePattern\obj\Debug\StatePattern.csproj.GenerateResource.Cache
+c:\users\андрій\documents\visual studio 2013\Projects\StatePattern\StatePattern\obj\Debug\StatePattern.exe
+c:\users\андрій\documents\visual studio 2013\Projects\StatePattern\StatePattern\obj\Debug\StatePattern.pdb
